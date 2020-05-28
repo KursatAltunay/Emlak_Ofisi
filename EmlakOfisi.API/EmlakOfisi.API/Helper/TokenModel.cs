@@ -10,7 +10,7 @@ namespace EmlakOfisi.API.Helper
         public string Token { get; set; }
         public TokenModel(string token)
         {
-            token = Token;
+            Token = token;
         }
     }
 }
